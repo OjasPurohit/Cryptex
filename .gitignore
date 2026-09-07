@@ -24,3 +24,11 @@ pip_result.txt
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Research Paper & Figures (Confidential - Do not push to GitHub)
+PAPER_REVISION_CONTEXT.md
+Response_to_Reviewers.md
+*.tex
+paper_figures*/
+fig*.png
+
