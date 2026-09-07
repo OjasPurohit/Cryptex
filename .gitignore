@@ -1,0 +1,26 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*.class
+
+# Distribution & PyInstaller build outputs
+build/
+dist/
+*.egg-info/
+
+# Local testing and storage directories
+decrypted/
+encrypted/
+vault/
+Cryptex_Data/
+*.hash
+
+# Logs
+*.log
+pip_log.txt
+pip_result.txt
+
+# Operating System
+.DS_Store
+Thumbs.db
+desktop.ini
